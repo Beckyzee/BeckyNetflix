@@ -1,0 +1,78 @@
+*
+*::after
+*::before {
+    box-sizing:border-box;
+}
+.header1 {
+    width: 10px;
+    height: 10px;
+}
+.header2{
+    width: 300px;
+    height: 300px;
+}
+.wrapper {
+    color: white;
+    text-align: center;
+}
+.first{
+    background-image: url("Background.jpeg");
+
+}
+.page2{
+    border-top: 1px;
+    border-color: gray;
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 470px;
+}
+.page3{
+    border-top: 1px;
+    border-color: gray;
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 470px;
+}
+.page4{
+    border-top: 1px;
+    border-color: gray;
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 470px;
+}
+.page5{
+    border-top: 1px;
+    border-color: gray;
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 470px;
+}
+.page6{
+    border-top: 1px;
+    border-color: gray;
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 470px;
+}
+.page7{
+    border-top: 1px;
+    border-color: gray;
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 470px;
+}
+.foot{
+    border-color: gray;
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 200px;
+}
+
+    
